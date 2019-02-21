@@ -7,7 +7,7 @@
 -2 tablespoons Worcestershire sauce
 -1/8 (or more) teaspoon cayenne pepper
 -2 cloves of garlic, minced
-## Instructions
+## Preperation
 1. Start Grill
 2. Mix ingredients
 3. Make patties

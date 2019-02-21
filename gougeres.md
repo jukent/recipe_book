@@ -1,12 +1,12 @@
 # Gougeres (cheesy bread balls)
 ## Ingredients
--57 grams unsalted butter (~1/2 a stick)
--1/2 teaspoon fine salt (or to taste)
--1/8 teaspoon cayenne (or more)
--136 grams bread flower
--4 large eggs (room temperature)
--142 grams shredded Gruyere
--50 grams grated parmesan
+- 57 grams unsalted butter (~1/2 a stick)
+- 1/2 teaspoon fine salt (or to taste)
+- 1/8 teaspoon cayenne (or more)
+- 136 grams bread flower
+- 4 large eggs (room temperature)
+- 142 grams shredded Gruyere
+- 50 grams grated parmesan
 ## Preperation
 1. Preheat to 425, put parchment paper on baking sheets
 2. In a small saucepan, bring 1 cup of water, butter, salt, and cayenne to a boil.

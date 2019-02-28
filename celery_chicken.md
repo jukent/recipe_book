@@ -6,7 +6,7 @@
 - 1/2 tsp sugar
 - 1 tsp shaoxing wine
 - Pepper
-### Thickenner
+### Thickener
 - 1/2 tsp corn starch
 - 1 tbsp water
 ### Stuff to fry the chicken with
@@ -18,4 +18,4 @@
 ## Preperation
 1. Marinate chicken with seasoning ingredients for at least 30 mins, up to overnight
 2. Cook chicken (however you want)
-3. Heat oil, add garlic. Add celery. Sprinkle sugar and salt. Add chicken stock. Add Chicken. Add Thickening.
+3. Heat oil, add garlic. Add celery. Sprinkle sugar and salt. Add chicken stock. Add Chicken. Add Thickener.
